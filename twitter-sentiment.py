@@ -13,15 +13,15 @@ if sys.version_info[0] <3:
 
 #Twitter credentials
 
-consumer_key = "5rfrqgRyXdYRnlkSZt8lqMDev"
-consumer_secret = "V89gZ2JJXQoUwTqIs816eGGAqVCJgyQs9QULYu7dngdDBwVyip"
-access_token = "979242557312921605-JzzDjoGvlaG56kO2CZEdrXZKWB2UzzB"
-access_token_secret = "92YFF0E2s1wD7jGetXPFQD8R1nTW4Apgtxl0qwSsbUGPG"
+consumer_key = "******************************"
+consumer_secret = "**********************************"
+access_token = "****************************************"
+access_token_secret = "*******************************"
 
 #Aylien credentials
 
-application_id = "7c953276"
-application_key = "60c95180c4ff203cd4fe40e36eeaeea6"
+application_id = "******************"
+application_key = "******************"
 
 #Setup instance of tweepy
 
